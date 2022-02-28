@@ -4,10 +4,10 @@
 ### Website App:<br>
 
 ### 1- Choose an Option<br>
-<img src = 'im1.jpg', height=800, width=800>
+<img src = 'im1.jpg'>
 ### <br>2- Upload an Image (Video)<br>
-<img src = 'im2.jpg', height=800, width=800>
+<img src = 'im2.jpg'>
 ### <br>3- Show Results<br>
-<img src = 'im3.jpg', height=800, width=800>
+<img src = 'im3.jpg'>
 ### <br>if the option is Webcam press Open Camera Button and it will access your Camera<br>
-<img src = 'im4.jpg', height=800, width=800>
+<img src = 'im4.jpg'>
